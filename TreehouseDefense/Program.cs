@@ -29,7 +29,6 @@ namespace TreehouseDefense
                 {
                     Console.WriteLine(location.X + "," + location.Y);
                 }
-
             }
             catch (OutOFBoundsException ex)
             {
@@ -43,7 +42,6 @@ namespace TreehouseDefense
             {
                 Console.WriteLine("Unhandled Exception " + ex.Message);
             }
-
             Console.ReadLine();
         }
     }
