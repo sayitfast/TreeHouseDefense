@@ -2,8 +2,7 @@
 
 namespace TreehouseDefense
 {
-    //rhett comment www
-
+    //
     internal class Program
     {
         private static void Main(string[] args)
