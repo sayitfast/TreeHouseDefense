@@ -4,6 +4,7 @@ namespace TreehouseDefense
 {
     internal class Program
     {
+        // test comment for git test
         private static void Main(string[] args)
         {
             Tower tower = new Tower();
